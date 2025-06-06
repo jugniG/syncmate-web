@@ -4,7 +4,7 @@ import Link from "next/link";
 import { FaCheck, FaCrown, FaRocket, FaStar } from "react-icons/fa";
 import { RxCross2 } from "react-icons/rx";
 
-export const plans: TPlan[] = [
+export const plans = [
   {
     name: "BASE",
     price: "$9",
